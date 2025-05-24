@@ -1,4 +1,4 @@
-# churn_prediction_ml
+# CUSTOMER CHURN PREDICTION USING ML
 Predicting telecom customer churn using ML models.
 
 ---
