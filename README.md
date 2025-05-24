@@ -57,13 +57,6 @@ The following models were trained and evaluated:
 
 ---
 
-## 📄 Report
-
-You can find the detailed report in:  
-📁 `report/Churn_Prediction_Report.docx`
-
----
-
 ## 🙋 Author
 
 **Phanidhar Venkata Naga Kasuba**  
